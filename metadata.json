@@ -1,0 +1,5 @@
+{
+  "name": "DocGen AI Platform",
+  "description": "An AI-powered document authoring platform for generating, refining, and exporting business documents (DOCX/PPTX).",
+  "requestFramePermissions": []
+}
